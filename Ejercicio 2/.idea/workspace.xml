@@ -20,14 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9236112-2c35-4958-b945-e49eb4a1bb03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circulo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circulo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangulo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangulo.h" afterDir="false" />
-    </list>
+    <list default="true" id="c9236112-2c35-4958-b945-e49eb4a1bb03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +62,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "nerea",
-    "last_opened_file_path": "C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 2",
+    "last_opened_file_path": "C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700133695807</updated>
-      <workItem from="1700133696895" duration="1073000" />
+      <workItem from="1700133696895" duration="2556000" />
     </task>
     <servers />
   </component>
