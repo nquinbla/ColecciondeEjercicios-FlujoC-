@@ -1,0 +1,3 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 2/cmake-build-debug/CMakeFiles/geometria.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
