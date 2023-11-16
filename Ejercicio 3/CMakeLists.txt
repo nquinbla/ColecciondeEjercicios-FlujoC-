@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(circulo
+add_executable(circulo main.cpp
         circulo.cpp
         circulo.h)

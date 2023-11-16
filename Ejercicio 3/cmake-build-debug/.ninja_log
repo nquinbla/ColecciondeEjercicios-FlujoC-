@@ -1,0 +1,8 @@
+# ninja log v5
+1	146	7218398460979179	CMakeFiles/circulo.dir/circulo.cpp.obj	8a4c1d7ecfa543aa
+4	537	7218398589106289	CMakeFiles/circulo.dir/main.cpp.obj	e41ffe79bc41fcb8
+539	694	7218398590548914	circulo.exe	ece962d1eaaae957
+6	561	7218400131468135	CMakeFiles/circulo.dir/main.cpp.obj	e41ffe79bc41fcb8
+562	700	7218400132798882	circulo.exe	ece962d1eaaae957
+5	540	7218400353653971	CMakeFiles/circulo.dir/main.cpp.obj	e41ffe79bc41fcb8
+541	754	7218400355702404	circulo.exe	ece962d1eaaae957

@@ -49,6 +49,13 @@ cmake_ninja_workdir = C$:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjer
 
 build cmake_object_order_depends_target_circulo: phony || CMakeFiles/circulo.dir
 
+build CMakeFiles/circulo.dir/main.cpp.obj: CXX_COMPILER__circulo_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio$ 3/main.cpp || cmake_object_order_depends_target_circulo
+  DEP_FILE = CMakeFiles\circulo.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio 3/."
+  OBJECT_DIR = CMakeFiles\circulo.dir
+  OBJECT_FILE_DIR = CMakeFiles\circulo.dir
+
 build CMakeFiles/circulo.dir/circulo.cpp.obj: CXX_COMPILER__circulo_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/ColecciondeEjercicios-FlujoC-/Ejercicio$ 3/circulo.cpp || cmake_object_order_depends_target_circulo
   DEP_FILE = CMakeFiles\circulo.dir\circulo.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
@@ -64,7 +71,7 @@ build CMakeFiles/circulo.dir/circulo.cpp.obj: CXX_COMPILER__circulo_unscanned_De
 #############################################
 # Link the executable circulo.exe
 
-build circulo.exe: CXX_EXECUTABLE_LINKER__circulo_Debug CMakeFiles/circulo.dir/circulo.cpp.obj
+build circulo.exe: CXX_EXECUTABLE_LINKER__circulo_Debug CMakeFiles/circulo.dir/main.cpp.obj CMakeFiles/circulo.dir/circulo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\circulo.dir
